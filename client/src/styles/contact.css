@@ -1,0 +1,79 @@
+.contactbg{
+  padding: 50px;
+  background-color: rgb(67, 47, 142);
+  color: white;
+  margin-bottom: 55px;
+}
+
+.left-col{
+  /* background-color: rgb(106, 52, 52); */
+  display: flex;
+  flex-direction: column;
+  color: white;
+  
+}
+
+.labels{
+  color: white;
+  font-size: 1.2em;
+}
+
+.textarea{
+  width: 100%;
+  border-radius: 5px;
+  text-indent: 10px;
+}
+
+.contact-header{
+  color: white;
+  font-size: 2em;
+}
+
+.contact-info_section{
+  color: white;
+}
+
+.contact__btn{
+  color: black;
+  border: none;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.contact__btn:hover{
+  background-color: #ED8802;
+  color: white;
+  transition: all 0.5s;
+}
+
+.cont_info-header{
+  color: white;
+  font-size: 1.5em;
+}
+
+.phone_section{
+  margin: 20px 0;
+}
+
+.phone{
+  color: white;
+  size: 2em;
+}
+
+.email_section{
+  margin: 20px 0;
+}
+
+.email{
+  color: white;
+  size: 2em;
+}
+
+.follow-us-link_section{
+  color: white;
+  size: 1.5em;
+}
+
+input{
+  border: none;
+}

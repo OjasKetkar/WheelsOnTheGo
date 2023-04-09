@@ -1,0 +1,82 @@
+.carspage{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    font-size: 1.1em;
+    font-weight: bold;
+    grid-template-rows: max-content;
+    padding: 50px;
+    background-color: #CCCFD6;
+}
+
+.cars-card{
+    background-color: #fff;
+    border-radius: 30px;
+    width: 90%;
+    padding: 30px;
+}
+
+.cars-image{
+    background-color: white;
+    padding: 20px;
+    height: 45%;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+.carsimg{
+    width: 100%;
+}
+
+.cars-headers{
+    /* margin-top: 10px; */
+    text-align: left;
+    margin-left: 10px;
+}
+.carname{
+    font-weight: bolder;
+}
+.carprice{
+    font-weight: bolder;
+    color:#ED8802;
+}
+span{
+    color: black;
+}
+
+.cars-price-rating{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 25px;
+    font-size: 1.2em;
+}
+
+.cars-miles-drive-fueltype{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.rupees,.rate,.miles,.drive,.fuel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}
+.carsBtn{
+    background-color:#1E3658;
+    margin: 10%;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.carsBtn-link{
+    color: #fff;
+}
+
+.Car_Name_link{
+    color: black;
+}
+.Car_Name_link:hover{
+    color: #ED8802;
+}
