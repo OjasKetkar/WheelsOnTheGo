@@ -14,18 +14,38 @@ A Full Stack Tool to handle the collaboration between Car Owners and Tenants
 Make sure you have NodeJS and node package manager installed on your machine, or install it
 
 1. Clone the repository
+```
 git clone https://github.com/OjasKetkar/Car-Rental-Website.git
+```
 
 2. For frontend : 
-    Change the working directory : cd client
-    Install dependencies : npm i
-    Run the app : npm start
+    Change the working directory 
+    ```
+    cd client
+    ```
+    Install dependencies 
+    ```
+    npm i
+    ```
+    Run the app 
+    ```
+    npm start
+    ```
 
 3. For backend :
-    Change the working directory : cd server
-    Install dependencies : npm i 
-                           npm i nodemon
-    Start the server : nodemon server.js
+    Change the working directory 
+    ```
+    cd server
+    ```
+    Install dependencies 
+    ```
+    npm i
+    npm i nodemon
+    ```
+    Start the server 
+    ```
+    nodemon server.js
+    ```
     
 ------
 
