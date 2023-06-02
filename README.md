@@ -2,6 +2,9 @@
  
 A Full Stack Tool to handle the collaboration between Car Owners and Tenants
 
+![image](https://github.com/OjasKetkar/Car-Rental-Website/assets/98796669/d4950d36-5192-447b-a1b7-0e6a672f1002)
+
+
 # Usage🚀
 1. Login as a Tenant or Admin
 2. As an admin , you can add new cars to the catalogue or edit the existing ones
