@@ -1,6 +1,6 @@
-# Car-Rental-Website
+# WheelsOnTheGo
  
-A Full Stack Tool to handle the collaboration between Car Owners and Tenants
+A Full Stack online e-commerce website for renting cars
 
 ![image](https://github.com/OjasKetkar/Car-Rental-Website/assets/98796669/5b2ee66d-b51a-4e96-8b04-36b541769de6)
 ![image](https://github.com/OjasKetkar/Car-Rental-Website/assets/98796669/b5657e37-b464-4f53-8b35-ef5e02714f1e)
