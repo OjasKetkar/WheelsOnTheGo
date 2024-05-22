@@ -1,4 +1,3 @@
-# WheelsOnTheGo
  
 A Full Stack online e-commerce website for renting cars
 
